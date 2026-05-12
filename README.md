@@ -28,7 +28,7 @@ Simulated healthcare dataset including:
 
 ## Key Analyses
 1. Readmission rate analysis
-2. Follow-up care impact on readmissions
+2. Follow up care impact on readmissions
 3. Cost differences by patient risk level
 
 ## Key Findings
@@ -37,7 +37,7 @@ Simulated healthcare dataset including:
 - Care coordination is associated with improved patient outcomes
 
 ## Recommendations
-- Improve 7 day follow-up compliance for high-risk patients
+- Improve 7 day follow up compliance for high-risk patients
 - Strengthen discharge planning processes
 - Focus resources on high-cost patient groups
 
