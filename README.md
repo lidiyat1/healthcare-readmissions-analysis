@@ -24,7 +24,7 @@ Simulated healthcare dataset including:
 4. Excel was used to visualize results through bar charts:
    - Follow-up care vs readmission rates
    - High-risk vs low-risk patient cost comparison
-5. Insights were summarized to support healthcare decision-making
+5. Insights were summarized to support healthcare decision making
 
 ## Key Analyses
 1. Readmission rate analysis
